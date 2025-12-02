@@ -34,13 +34,8 @@ Me chamo Henrique Kendi Ikeda, sou natural de Maringá, Paraná, e atualmente es
 <br/>
 
 ### 📊 Estatísticas
+[![Henrique Ikeda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique-ikeda&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Henrique-ikeda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
