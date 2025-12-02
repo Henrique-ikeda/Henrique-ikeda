@@ -1,6 +1,10 @@
 ## Oi, eu sou Henrique Kendi Ikeda 👋
 
-Me chamo Henrique Kendi Ikeda, sou natural de Maringá, Paraná, e atualmente estou cursando Engenharia de Software na UniCesumar. Tenho grande interesse pela área de tecnologia e estou sempre em busca de novos conhecimentos. No momento, estou me dedicando aos estudos de linguagem C e desenvolvimento front-end, com foco em HTML, CSS, JavaScript e Vue.js.
+Atualmente estou no 3º ano da graduação em Engenharia de Software na UniCesumar e sigo sempre em busca de aprender coisas novas dentro da área de tecnologia.
+
+Tenho conhecimento em linguagem C e em desenvolvimento front-end, utilizando HTML, CSS e JavaScript. Já explorei bastante esse lado do desenvolvimento, mas hoje meu foco principal de estudos está em Python, linguagem na qual venho me aprofundando cada vez mais.
+
+Gosto de encarar desafios e estou sempre buscando evoluir, praticar e aplicar o que aprendo no dia a dia.
 
 <p align="left">
     <a href="https://github.com/Henrique-ikeda?tab=repositories&sort=stargazers">
